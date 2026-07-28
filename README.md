@@ -34,7 +34,7 @@ O processo real (documentado com fotos no site) segue as etapas: coleta dos res�
 
 Na pesquisa original, o mesmo epicarpo também foi aproveitado para produção de **adubo** e de **papel semente** — este último usando sementes de *Helianthus annuus* (girassol silvestre), espécie nativa da Amazônia, que germinam a partir do próprio papel plantado.
 
-**Site do projeto:** [(https://biopaper-ai.netlify.app/)]
+**Site do projeto:** https://biopaper-ai.netlify.app/)
 
 ## Conclusão
 
